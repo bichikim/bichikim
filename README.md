@@ -2,7 +2,7 @@
 
 #### 🤔 I am a Programmer using Javascript Functional programming 
 
-- OOP 는 Side effect 때문에 에러률이 높은 스타일 이며 유닛테스트에 적합하지 않습니다.
+- OOP 는 Side effect 때문에 에러율이 높은 스타일 이며 유닛테스트에 적합하지 않습니다.
 - 아래 그림과 같이 생각 합니다.
 
 ![FP](./media/FP.png)
