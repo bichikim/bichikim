@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-#### 🤔 I am a programmer using javascript functional programming 
+### 🤔 I am a programmer using javascript functional programming 
 
 - OOP 는 Side effect 때문에 에러율이 높은 스타일이며 유닛 테스트에 적합하지 않습니다.
 - 아래 그림과 같이 생각 합니다.
@@ -13,8 +13,8 @@
 - 모든 것을 끊임없이 도전하고 해결합니다. 
 - 못하는 것은 아직 안 한 일일 뿐입니다. 
 
-#### 📫 How to reach me
+### 📫 How to reach me
 
-[<img src="./media/notion.png" width="25"> Go 👉](https://www.notion.so/bichi/Bichikim-s-Document-2e62e9680f244a46afd8611882a9e3bd)
+#### [<img src="./media/notion.png" width="25"> Go 👉](https://www.notion.so/bichi/Bichikim-s-Document-2e62e9680f244a46afd8611882a9e3bd)
 
 
