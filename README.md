@@ -15,7 +15,7 @@
 
 #### 📫 How to reach me
 
-Notion
+<img src="./media/notion.png" width="25"> Notion
 
-URL: [Go](https://www.notion.so/bichi/Bichikim-s-Document-2e62e9680f244a46afd8611882a9e3bd)
+URL: [Go 👉](https://www.notion.so/bichi/Bichikim-s-Document-2e62e9680f244a46afd8611882a9e3bd)
 
