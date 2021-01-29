@@ -11,6 +11,8 @@
 - 적당한 이론은 필요하지만 과도한 이론보다 실무를 중요하게 생각합니다.
 - 공감 능력이 좋은 동료와 일하는 것을 좋아 합니다.
 
+* 프로그래밍은 TDD 로 돌아가고 세상은 LOVE 로 돌아 간다
+
 ### 📫 How to reach me
 
 -  [<img src="./media/notion.png" width="25"> Go 👉](https://www.notion.so/bichi/Bichikim-s-Document-2e62e9680f244a46afd8611882a9e3bd)
