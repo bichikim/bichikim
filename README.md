@@ -13,6 +13,13 @@
 - 이제 REST API 는 놓아 줄 때입니다 
 * 프로그래밍은 [TDD](https://www.youtube.com/watch?v=Jv2uxzhPFl4) 로 돌아가고 세상은 LOVE 로 돌아 간다
 
+### PDP
+|년도|내용|
+|--|--|
+|2022|지금 근무중 회사 유니콘 만들기|
+|2023|사이드 프로젝트로 년 1억 벌기|
+|2024|사이드 프로젝트를 팔거나 더키워 사업으로 이어가기|
+
 ### 📫 How to reach me
 
 -  [<img src="./media/notion.png" width="25"> Go 👉](https://www.notion.so/bichi/Bichikim-s-Document-2e62e9680f244a46afd8611882a9e3bd)
