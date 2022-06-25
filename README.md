@@ -12,6 +12,7 @@
 - 공감 능력이 좋은 동료와 일하는 것을 좋아 합니다.
 - 이제 REST API 는 놓아 줄 때입니다 
 - 프로그래밍은 [TDD](https://www.youtube.com/watch?v=Jv2uxzhPFl4) and [Test](https://velog.io/@youngerjesus/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%A6%AC%EB%B7%B0-zwrdhz3c#%ED%9A%8C%EA%B7%80-%EB%B0%A9%EC%A7%80-protection-against-regressions)로 돌아가고 세상은 [LOVE](https://www.youtube.com/watch?v=Q5bX5K76Hag) 로 돌아 간다
+- https://www.ted.com/talks/samantha_agoos_5_tips_to_improve_your_critical_thinking
 
 ### My Pet Project
 https://github.com/winter-love/web
