@@ -15,7 +15,7 @@
 - 과학적 회의주의자 입니다 [TED](https://www.ted.com/talks/samantha_agoos_5_tips_to_improve_your_critical_thinking)
 
 ### My Pet Project
-https://github.com/winter-love/web
+https://github.com/bichikim/web --> https://coong.io
 
 ### PDP
 |년도|내용|
