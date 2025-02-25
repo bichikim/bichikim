@@ -28,6 +28,8 @@ https://github.com/bichikim/web --> https://coong.io
 
 ### 📫 How to reach me
 
+- [create an issue](https://github.com/bichikim/bichikim/issues)
+
 -  [<img src="./media/notion.png" width="25"> Go 👉](https://www.notion.so/bichi/Bichikim-s-Document-2e62e9680f244a46afd8611882a9e3bd)
 
 
