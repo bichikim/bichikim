@@ -14,13 +14,13 @@
 - 프로그래밍은 [TDD](https://www.youtube.com/watch?v=Jv2uxzhPFl4) and [Test](https://velog.io/@youngerjesus/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%A6%AC%EB%B7%B0-zwrdhz3c#%ED%9A%8C%EA%B7%80-%EB%B0%A9%EC%A7%80-protection-against-regressions)로 돌아가고 세상은 [LOVE](https://www.youtube.com/watch?v=Q5bX5K76Hag) 로 돌아 간다
 - 과학적 회의주의자 입니다 [TED](https://www.ted.com/talks/samantha_agoos_5_tips_to_improve_your_critical_thinking)
 
-### ✨ My Pet Project ✨
+### ✨ My Pet🐶 Project ✨
 https://github.com/bichikim/web --> https://coong.io
 
 ### PDP (Personal development plan)
 |년도|내용|
 |--|--|
-|2023|사이드 프로젝트 시작하여 현상 유지 가능한 수준으로 발전 하기 (완료)|
+|2023| 사이드 프로젝트 시작하여 현상 유지 가능한 수준으로 발전 하기 (완료)|
 |2024|~~사이드 프로젝트로 년 1억 벌기~~|
 |2025| AI 사이드 프로젝트로 년 1억 벌기||
 |2026| AI 사이드 프로젝트를 팔거나 더 키워야 될 정도로 만들기|
