@@ -17,7 +17,7 @@
 ### My Pet Project
 https://github.com/bichikim/web --> https://coong.io
 
-### PDP
+### PDP (Personal development plan)
 |년도|내용|
 |--|--|
 |2023|사이드 프로젝트 시작하여 현상 유지 가능한 수준으로 발전 하기 (완료)|
