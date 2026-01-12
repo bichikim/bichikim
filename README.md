@@ -1,6 +1,6 @@
 # Bichi Kim 
 
-Frontend · Full-stack JavaScript + Functional Programming 
+Full-stack JavaScript + Functional Programming 
 
 ## 🧠 Programming Philosophy
 - OOP 는 Side effect 때문에 에러율이 높은 스타일이며 유닛 테스트에 적합하지 않습니다
